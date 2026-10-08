@@ -1,6 +1,6 @@
 # Threat Modeling Portfolio
 
-Structured threat models for three systems at different scales, built using the STRIDE methodology. Each model includes architecture documentation, data flow diagrams with trust boundaries, systematic threat enumeration, risk ratings, and mapped mitigations.
+Structured threat models for systems at different scales, built using the STRIDE methodology. Each model includes architecture documentation, data flow diagrams with trust boundaries, systematic threat enumeration, risk ratings, and mapped mitigations.
 
 ## Models
 
